@@ -1,0 +1,6 @@
+this course is about python but not about learning python 
+from zero, but rather learning focusing into a robotics proces
+the objetive about this course is to learn python for robotics 
+and let some brand examples of how to implement it on a fisic robot
+because these days i fell i got stuck into arduino word 
+so a i wanna increase this knowledge in robotics.
